@@ -17,7 +17,7 @@ A React app to generate secure passwords with customizable options and real-time
 
 ## Live Demo
 
-https://your-live-link-here
+[Project link](https://password-generator-8etkl6aj8-jatin-jay-31s-projects.vercel.app/)
 
 ## Run Locally
 
